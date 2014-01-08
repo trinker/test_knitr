@@ -1,4 +1,4 @@
-<div class=\"container\">
+<div class="container">
 
 # Hello World
 
@@ -6,7 +6,7 @@
 
 <style>
 .container {
-box-shadow: 10px 10px 5px #888888;
+    box-shadow: 10px 10px 5px #888888;
     width: 70%;
     margin: 15em auto 5em;
     margin-bottom:-9em;
