@@ -1,9 +1,12 @@
-<div class="container">
+<span class="container">
 
 # Hello World
 ```{r setup, include=FALSE}
 opts_chunk$set(cache=FALSE)
 library(knitr); library(knitcitations); 
+
+## Hook to convert span to div
+
 ```
 
 <style>
@@ -25,4 +28,4 @@ body {
 }
 </style>
 
-</div>
+</span>
